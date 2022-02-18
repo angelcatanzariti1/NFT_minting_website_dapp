@@ -1,0 +1,11 @@
+{
+    image: "ipfs://QmTwaxzYdC7RBnGD3XP1o1CJm1AkF1DLe2PF3xkWt3Yrij",
+    name: "Looks so good!",
+    description: "She's the one",
+    attributes: [
+      {
+         trait_type: "Nutrition facts",
+         value: "All of them.",
+      },
+    ],
+  }

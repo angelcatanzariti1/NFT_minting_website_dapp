@@ -1,0 +1,11 @@
+{
+    image: "ipfs://QmNbf8jh8CrEgayUX6ifdp9WPPW5jrAmJEuyBzUn2dTiCr",
+    name: "The Boar!",
+    description: "Anköl",
+    attributes: [
+      {
+         trait_type: "Feeling",
+         value: "Madly in love",
+      },
+    ],
+  }

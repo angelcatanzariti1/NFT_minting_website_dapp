@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+/*------------------------------------------------*/
+div {
+  height: 100vh;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+ }
+ 
+ button {
+  background: #2196f3;
+  padding: 16px 50px;
+  border-radius: 10px;
+  border: 2px solid rgb(17, 87, 145);
+  color: #fff;
+  font-weight: bold;
+  font-size: 20px;
+ }
+ 
+ h1 {
+  color: #000;
+ }

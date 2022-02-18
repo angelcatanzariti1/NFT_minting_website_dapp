@@ -1,0 +1,11 @@
+{
+    image: "ipfs://QmdKzdTYLkUYjazsLRw84LYc4JAaXe7YJzqi2xjMvAG9g1",
+    name: "This is us",
+    description: "Perfect fit",
+    attributes: [
+      {
+         trait_type: "Activities",
+         value: "Clocks aren't real.",
+      },
+    ],
+  }
