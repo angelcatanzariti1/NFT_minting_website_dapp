@@ -1,7 +1,7 @@
 {
     image: "ipfs://QmNbf8jh8CrEgayUX6ifdp9WPPW5jrAmJEuyBzUn2dTiCr",
-    name: "The Boar!",
-    description: "Anköl",
+    name: "The Boar",
+    description: "Anköl post vacc",
     attributes: [
       {
          trait_type: "Feeling",
